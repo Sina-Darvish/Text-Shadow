@@ -1,0 +1,21 @@
+* {
+  background-color: #d52e3f;
+}
+
+p {
+  display: flex;
+  justify-content: center;
+  /* align-items: center; */
+  font-family: niconne-v10-latin-regular;
+  font-weight: 700;
+  font-size: 15em;
+  color: #fcedd8;
+  text-shadow: 3px 7px #eb452b, 6px 12px #efa032, 8px 19px #46b59b,
+    10px 25px #017e7f, 15px 29px #052939, 22px 43px #c11a2b;
+}
+@font-face {
+  font-family: "niconne-v10-latin-regular";
+  src: url("fonts/niconne-v10-latin-regular.eot") format("eot");
+  src: url("fonts/niconne-v10-latin-regular.woff") format("woff");
+  src: url("fonts/niconne-v10-latin-regular.woff2") format("woff2");
+}
